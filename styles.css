@@ -1,18 +1,57 @@
-.header {
-	background: pink;
-	padding: 10px;
-	border: 10px aquamarine solid;
-}
-.sidebar {
-	max-width: 20%;
+body {
 	background: lightblue;
-	border: 5px dotted;
-	padding: 15px;
-	display: inline-block;
+	text-align: center;
 }
-.main {
-	background: lightyellow;
-	border: 5px dotted;
-	padding: 25px;
-	display: inline-block;
+table {
+	border: 10px solid #de93de;
+	padding: 30px;
+	margin-bottom: 30px;
+	display: block;
+}
+form {
+	border: 10px solid #aaedaa;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding: 20px;
+}
+#cat-pic {
+	border: 10px dotted hotpink;
+}
+.hobbies {
+	border: 10px solid #f0ce90;
+	height: 250px;
+	width: 40%;
+}
+.sing {
+	border: 10px solid #f0ce90;
+	height: 300px;
+}
+h1 {
+	color: white;
+	font-size: 50px;
+}
+h2 {
+	font-size: 30px;
+}
+h3 {
+	margin: auto;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	border: 10px solid #ea91ea;
+	max-width: 20%;
+	padding: 20px;
+	background: solid #aaedaa;
+}
+#cat {
+	color: hotpink;
+}
+.white {
+	color: white;
+}
+.yellow {
+	color: #f5f599;
+}
+p {
+	color: #f5f599;
+	font-size: 25px;
 }
